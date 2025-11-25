@@ -1,1 +1,4 @@
-This is an alpha version for a implementation of a shop in a videogame project.
+# Check [this repo for the complete project](https://github.com/FerRojasChoco/Endless-Jumper---OOP)
+##Implementation of the "shop" on a video game project 
+### Documentation on the project still needs to be updated
+
